@@ -22,4 +22,4 @@ describe('Todo list App', () => {
     cy.get(data.buttonNewTask).click()
   })
 })
-//grissell.esquivel@wizeline.com
+//
